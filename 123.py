@@ -16,6 +16,7 @@ class corp:
         self.workres = self.workres + randrange(100)
         print( ''.join(self.name), "Worked for: " + str(self.workres) + "%")
 
+Print=('Hello world')
 
 boss = []
 directors = []
